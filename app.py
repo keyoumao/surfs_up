@@ -80,4 +80,6 @@ def stats(start=None, end=None):
     temps = list(np.ravel(results))
     return jsonify(temps)
 
-app.run()
+
+if __name__ == '__main__':
+    app.run(debug=True)
