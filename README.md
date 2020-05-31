@@ -21,7 +21,7 @@ Surf's Up with Advanced Data Storage and Retrieval
 ## Analysis
 
 - Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
-- Find the code in climate_analysis (<https://github.com/keyoumao/surfs_up/blob/master/climate_analysis.ipynb).>
+- Find the code in climate_analysis (<https://github.com/keyoumao/surfs_up/blob/master/climate_analysis.ipynb>).
 
 1. For temperature (F):
 
